@@ -2,7 +2,7 @@
 #list-append
 
 a=["bee","moth"]
-print(a)                     # ['bee', 'moth']
+print(a)                    # ['bee', 'moth']
 a.append("ant")
 print(a)                    # ['bee', 'moth', 'ant']
 a.append("siri")
